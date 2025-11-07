@@ -2,13 +2,13 @@
 
 **Welcome to the official ZPL repository!**
 
-This repository contains the **source code and website** for the Zeke Public License — a modern, developer-friendly license designed for **freedom**, **flexibility**, and **fairness**.
+This repository contains the **source code and website** for the Zeke Public License
 
 ---
 
 ## 🧠 Mission
 The mission of the Zeke Public License (ZPL) is simple:
-> To give developers the freedom to create, modify, share, and even sell their software without restrictive obligations — while maintaining transparency and fairness in the development process.
+> To allow developers to have the freedom they reach for and to give fairness to everyone using the License.
 
 ZPL ensures you can choose how open or closed your project is while still respecting modification tracking.
 
