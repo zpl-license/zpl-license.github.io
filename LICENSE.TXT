@@ -1,0 +1,42 @@
+Zeke Public License (ZPL) Version 1.1
+
+Copyright (c) [YEAR] [AUTHOR]
+
+Everyone is permitted to use, copy, modify, and distribute this software and its documentation for any purpose, including commercial purposes, under the following conditions:
+
+1. Recording Modifications
+   If you modify the source code, you must record your modifications either in a file named "modifications.txt" or in the project's changelog. The record should briefly describe the changes you made.
+
+2. Terminal Notice
+   If this software interacts with a terminal or console in any way, you must display the following message at the start when it is run:
+
+       "
+       Copyright (c) 2025 [AUTHOR]
+       Licensed by the ZPL License. This product or software has NO WARRANTY APPLICABLE TO LAW.
+        See license.txt in the origin directory of this software for more info.
+        "
+
+3. Attribution
+   Attribution is NOT required. You may distribute modified or unmodified versions of this software without crediting the original author.
+
+4. Open-Source Status
+   You are not required to keep this software open-source. You may distribute it under any terms you choose, including closed-source licenses.
+
+5. Warranty Disclaimer
+   This software is provided "as-is," without any express or implied warranty, including but not limited to warranties of merchantability or fitness for a particular purpose. The author shall not be liable for any damages arising from the use of this software.
+
+6. Redistribution
+   Redistribution of original or modified versions of this software is allowed, provided that conditions (1) and (2) are met.
+
+7. Compliance
+   By using, modifying, or distributing this software, you agree to comply with the terms above. Failure to follow these terms may result in termination of your rights under this license.
+   Your rights under this license automatically terminate if you fail to comply with these terms.
+
+8. Internet Applications
+If this software is used in a web-based or online service that is not distributed for download, you must include a visible link to this license at: https://zekedoesgames.github.io/license.html
+
+
+
+This license is governed by the laws of Michigan, United States Of America.
+
+END OF TERMS AND CONDITIONS
