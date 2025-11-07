@@ -1,0 +1,96 @@
+body {
+  font-family: "Courier Prime", monospace;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; 
+}
+
+header {
+  background: #222;
+  color: white;
+  padding: 2rem 1rem;
+}
+
+h1 {
+  margin: 0;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #333;
+}
+
+nav {
+  margin-top: 0.5rem;
+}
+
+nav a {
+  color: #00aaff;
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
+
+nav a:hover,
+nav a.active {
+  text-decoration: underline;
+}
+
+.content {
+  margin: 2rem auto;
+  max-width: 700px;
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  flex: 1; 
+}
+
+.section {
+  margin: 2rem 0;
+}
+
+h2 {
+  color: #222;
+  margin-bottom: 1rem;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.disabled {
+  opacity: 0.5;
+  pointer-events: none;
+  cursor: default;
+}
+
+footer {
+  background: #222;
+  color: #999; 
+  padding: 1rem;
+  margin-top: 0; 
+}
+
+pre {
+  background: #f0f0f0;
+  padding: 0.5rem;
+  text-align: left;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
+@media (max-width: 768px) {
+  .content {
+    margin: 1rem;
+    padding: 1rem;
+  }
+}
