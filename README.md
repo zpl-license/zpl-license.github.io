@@ -21,4 +21,5 @@ To show that your code is licensed under the ZPL, include the following line at 
 // LICENSED BY THE ZPL LICENSE — https://zpl-license.github.io
 
 ```
+For web applications using the License please put a changelog or allow users to view modifications.txt 
 Thank you for using the ZPL License!
