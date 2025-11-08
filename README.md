@@ -36,5 +36,8 @@ For web applications using the License please put a changelog or allow users to 
  
 I support the FSF https://fsf.org
 ---
+## Acknowledgments
+Special thanks to the Free Software Foundation for inspiring the mission of the ZPL.
+---
 For devs, by devs  
 Thank you for using the ZPL License!
