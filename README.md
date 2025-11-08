@@ -22,7 +22,7 @@ To show that your code is licensed under the ZPL, include the following line at 
 
 ```
 <h3> All forks of a program must stay open source, but the original can be open or closed source.   </h3>
-If your software uses a terminal please print this when your program is loaded from the terminal on the first time.
+If your software uses a terminal please print this when your program is loaded from the terminal on the first time.  
 ```txt
   Copyright (c) 2025 [AUTHOR]
        Licensed by the ZPL License. This product or software has NO WARRANTY APPLICABLE TO LAW.
