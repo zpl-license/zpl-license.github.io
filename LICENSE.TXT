@@ -1,77 +1,75 @@
-                                                            Zeke Public License (ZPL) 
-                                                                   Version 2.0
-                                                            Copyright (c) 2025 ZEKE V 
+Zeke Public License (ZPL) Version 1.0
 
-Everyone is permitted to use, copy, modify, and distribute this software and its documentation for any purpose, including commercial purposes, under the following conditions:
+Copyright (C) 2025 ZekeV
+Everyone is permitted to copy and distribute verbatim copies of this license document, but modification of this license text is not permitted.
 
-1. Recording Modifications
-If you modify the source code, you must record your modifications either in a file named modifications.txt or in the project’s changelog.
-Each entry must include:
-[DATE] - [AUTHOR or USERNAME] - [DESCRIPTION OF CHANGE]
-This ensures transparency and traceability of all changes.
+Preamble
 
-2. Terminal Notice
-If this software interacts with a terminal or console in any way, the following message must be displayed at startup:
+The Zeke Public License is a license for free software. Its goal is simple: ensure that software remains open, transparent, and modifiable for everyone. You can use, share, and improve software covered by this license, but if you modify it or base new work on it, you must share your changes under the same terms.
 
-Copyright (c) [YEAR] [AUTHOR]
-Licensed by the ZPL License. This product or software has NO WARRANTY APPLICABLE TO LAW.
-See license.txt in the origin directory of this software for more info.
+Unlike proprietary software licenses that take away your rights, the ZPL exists to protect them. We believe that freedom in code means freedom in creation. Software should not hide its inner workings or lock users out of understanding or improvement.
 
+Under the ZPL, original works may be distributed as open or closed source, at the developer’s discretion. However, forks and derived works must be open source so that freedom continues to flow downstream to all users and developers.
 
-3. Attribution
-Attribution to the original author is not required. You may distribute modified or unmodified versions of this software without crediting the original author.
+To protect your rights, this license ensures that others cannot remove these freedoms from you. You may charge for distribution or services, but you cannot make a ZPL project proprietary or restrict access to its source.
 
-4. Open-Source Status
-You are not required to keep this software open-source.
-You may distribute modified versions under any terms you choose, including closed-source or proprietary licenses.
+TERMS AND CONDITIONS
+0. Definitions
 
-5. Redistribution
-Redistribution of original or modified versions of this software is allowed, provided that conditions (1) and (2) are met.
+“The Work” refers to any software or creative work licensed under this License.
 
-6. Network Use
-If this software is used to provide a service accessible over a network (including but not limited to web applications, APIs, or SaaS platforms), you must make the modifications.txt or changelog available to users upon request.
+“You” refers to the licensee or recipient of the Work.
 
-7. Contributions
-Any contributions submitted to a project licensed under the ZPL are automatically licensed under the same version of the ZPL, unless explicitly stated otherwise by the contributor.
+“Derivative Work” means any modification, fork, or adaptation of the Work.
 
-8. Compatibility
-ZPL-licensed code may be combined with or incorporated into works licensed under the MIT, BSD, or Apache 2.0 licenses.
-Other combinations may require permission from the original author.
+“Original Work” means software created independently by the licensee that does not substantially reuse or modify another ZPL-licensed work.
 
-9. Trademark Use
-The names “Zeke Public License,” “ZPL,” and any associated logos or branding are trademarks of the original author.
-They may not be used to imply endorsement or official status without written permission.
+“Distribution” means any method of making the Work or a Derivative Work available to others.
 
-10. Indemnification
-You agree to indemnify and hold harmless the author from any claims, damages, or liabilities arising from your use or distribution of this software.
+1. Permissions
 
-11. Warranty Disclaimer
-This software is provided “as-is,” without any express or implied warranty, including but not limited to warranties of merchantability, fitness for a particular purpose, or noninfringement.
-The author shall not be liable for any damages, losses, or liabilities arising from the use or misuse of this software.
+You may:
 
-12. Termination and Enforcement
-Your rights under this license automatically terminate if you violate any condition.
-However, rights may be reinstated if the violation is corrected within thirty (30) days of discovery.
+Use, copy, and run the Work for any purpose.
 
-13. Ethical Use
-This license may not be used for software intended to cause harm, violate human rights, or enable surveillance or oppression.
+Distribute verbatim copies of the Work, in source or compiled form.
 
-14. License Versions
-The author may publish revised and/or new versions of this license.
-You may choose to apply this version or any later version of the Zeke Public License.
+Modify the Work, create Derivative Works, and distribute them under the conditions of Section 2.
 
-15. Internet Applications
-If this license is used for software distributed through a website or web service that is not downloadable, a link to this license must be displayed prominently and clearly visible to users:
-https://zpl-license.github.io
+Charge a fee for distribution, support, or installation services.
 
-16. Definitions
-“Software” refers to any code, documentation, or digital asset distributed under this license.
-“Author” refers to the original creator or copyright holder of this software.
-“You” refers to any individual or entity using, modifying, or distributing this software.
+2. Source Code Availability
 
-17. Governing Law
-This license shall be governed by and construed in accordance with the laws of the State of Michigan, United States of America.
+Original Works may be distributed with or without source code, at the author’s discretion.
 
-END OF TERMS AND CONDITIONS
+Derivative Works must be made open source. The full, corresponding source code must be publicly available under the same ZPL license.
 
+If you distribute a Derivative Work, you must include:
 
+A notice identifying that it is modified from the original.
+
+The date and author of modification.
+
+Instructions or a link for obtaining the source code.
+
+3. No Warranty
+
+This software is provided “AS IS” and without any warranty, express or implied.
+NO WARRANTY APPLICABLE TO LAW.
+The entire risk of using the software lies with you. In no event shall the authors or copyright holders be liable for any damages resulting from use, misuse, or inability to use this software.
+
+4. Distribution Conditions
+
+You must keep all copyright and license notices intact.
+
+You may not sublicense, relicense, or impose additional restrictions that contradict the ZPL.
+
+You may distribute compiled versions of the Work provided you make the corresponding source available upon request or provide a link to where it can be freely accessed.
+
+5. Termination
+
+If you violate the terms of this License, your rights under it automatically terminate. Your rights will be reinstated if you correct the violation within 30 days of receiving notice.
+
+6. Versioning
+
+New versions of the Zeke Public License may be published at https://zpl-license.github.io
