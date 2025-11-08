@@ -32,7 +32,8 @@ For web applications using the License please put a changelog or allow users to 
 ---
 # My Mission Statement
 > I want everyone to have free and open source software and I will not stop until it is finished
+> For devs, by devs
 I support the FSF https://fsf.org
 ---
-For devs, by devs
+
 Thank you for using the ZPL License!
