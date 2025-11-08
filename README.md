@@ -30,3 +30,6 @@ If your software uses a terminal please print this when your program is loaded f
 For web applications using the License please put a changelog or allow users to view modifications.txt 
 
 Thank you for using the ZPL License!
+---
+# My Mission Statement
+> I want everyone to have free and open source software and I will not stop until it is finished I support the FSF https://fsf.org
