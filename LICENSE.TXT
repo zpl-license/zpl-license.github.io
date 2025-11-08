@@ -1,5 +1,6 @@
-Zeke Public License (ZPL) Version 2.0
-Copyright (c) [YEAR] [AUTHOR]
+                                                                    Zeke Public License (ZPL) 
+                                                                          Version 2.0
+                                                                    Copyright (c) 2025 ZEKE V 
 
 Everyone is permitted to use, copy, modify, and distribute this software and its documentation for any purpose, including commercial purposes, under the following conditions:
 
@@ -72,3 +73,4 @@ https://zpl-license.github.io
 This license shall be governed by and construed in accordance with the laws of the State of Michigan, United States of America.
 
 END OF TERMS AND CONDITIONS
+
