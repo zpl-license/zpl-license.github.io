@@ -1,75 +1,141 @@
-Zeke Public License (ZPL) Version 1.0
+ZEKE PUBLIC LICENSE  
+VERSION 1.0, NOVEMBER 2025  
 
-Copyright (C) 2025 ZekeV
-Everyone is permitted to copy and distribute verbatim copies of this license document, but modification of this license text is not permitted.
+COPYRIGHT (C) 2025 ZEKEV.  
+EVERYONE IS PERMITTED TO COPY AND DISTRIBUTE VERBATIM COPIES OF THIS LICENSE DOCUMENT,  
+BUT MODIFICATION OF THIS LICENSE TEXT IS NOT PERMITTED.  
 
-Preamble
+======================================================================
+PREAMBLE
+======================================================================
 
-The Zeke Public License is a license for free software. Its goal is simple: ensure that software remains open, transparent, and modifiable for everyone. You can use, share, and improve software covered by this license, but if you modify it or base new work on it, you must share your changes under the same terms.
+THE ZEKE PUBLIC LICENSE (ZPL) IS A FREE SOFTWARE LICENSE DESIGNED TO PROTECT USER FREEDOM AND PROMOTE OPEN, ETHICAL DEVELOPMENT.  
+ITS PURPOSE IS TO ENSURE THAT SOFTWARE REMAINS ACCESSIBLE, MODIFIABLE, AND SHAREABLE FOR ALL USERS AND DEVELOPERS.  
 
-Unlike proprietary software licenses that take away your rights, the ZPL exists to protect them. We believe that freedom in code means freedom in creation. Software should not hide its inner workings or lock users out of understanding or improvement.
+THE ZPL ALLOWS THE AUTHOR OF ORIGINAL SOFTWARE TO CHOOSE WHETHER THEIR WORK IS DISTRIBUTED AS OPEN SOURCE OR CLOSED SOURCE.  
+HOWEVER, ANY DERIVATIVE WORK, MODIFICATION, OR FORK OF A ZPL-LICENSED PROJECT MUST BE RELEASED AS OPEN SOURCE UNDER THE SAME LICENSE.  
 
-Under the ZPL, original works may be distributed as open or closed source, at the developer’s discretion. However, forks and derived works must be open source so that freedom continues to flow downstream to all users and developers.
+THE ZPL IS BUILT ON THE PRINCIPLE THAT CODE SHOULD EMPOWER, NOT RESTRICT.  
+ALL USERS HAVE THE RIGHT TO STUDY, MODIFY, AND SHARE SOFTWARE THAT FALLS UNDER THIS LICENSE,  
+SO LONG AS THEY DO NOT REMOVE THESE SAME FREEDOMS FROM OTHERS.  
 
-To protect your rights, this license ensures that others cannot remove these freedoms from you. You may charge for distribution or services, but you cannot make a ZPL project proprietary or restrict access to its source.
-
+======================================================================
 TERMS AND CONDITIONS
-0. Definitions
+======================================================================
 
-“The Work” refers to any software or creative work licensed under this License.
+0. DEFINITIONS  
 
-“You” refers to the licensee or recipient of the Work.
+"THE WORK" REFERS TO ANY SOFTWARE, CODE, OR DOCUMENTATION DISTRIBUTED UNDER THIS LICENSE.  
+"YOU" REFERS TO ANY INDIVIDUAL OR ENTITY THAT RECEIVES, USES, OR DISTRIBUTES THE WORK.  
+"DERIVATIVE WORK" MEANS ANY MODIFICATION, FORK, OR WORK BASED UPON THE ORIGINAL WORK.  
+"ORIGINAL WORK" MEANS SOFTWARE CREATED INDEPENDENTLY BY THE AUTHOR AND NOT BASED UPON ANOTHER ZPL-LICENSED WORK.  
+"DISTRIBUTION" MEANS MAKING THE WORK AVAILABLE TO THIRD PARTIES, WHETHER BY TRANSFER, UPLOAD, SALE, OR OTHER MEANS.  
 
-“Derivative Work” means any modification, fork, or adaptation of the Work.
+----------------------------------------------------------------------
+1. GRANT OF RIGHTS
+----------------------------------------------------------------------
 
-“Original Work” means software created independently by the licensee that does not substantially reuse or modify another ZPL-licensed work.
+1.1 YOU ARE HEREBY GRANTED A PERPETUAL, WORLDWIDE, NON-EXCLUSIVE, ROYALTY-FREE LICENSE TO USE, COPY, MODIFY, AND DISTRIBUTE THE WORK,  
+SUBJECT TO THE TERMS OF THIS LICENSE.  
 
-“Distribution” means any method of making the Work or a Derivative Work available to others.
+1.2 YOU MAY USE THE WORK FOR ANY PURPOSE, INCLUDING COMMERCIAL PURPOSES.  
 
-1. Permissions
+1.3 YOU MAY DISTRIBUTE COMPILED OR EXECUTABLE VERSIONS OF THE WORK PROVIDED YOU COMPLY WITH SECTION 2 OF THIS LICENSE.  
 
-You may:
+----------------------------------------------------------------------
+2. SOURCE CODE REQUIREMENTS
+----------------------------------------------------------------------
 
-Use, copy, and run the Work for any purpose.
+2.1 IF YOU DISTRIBUTE AN ORIGINAL WORK, YOU MAY CHOOSE WHETHER OR NOT TO PROVIDE THE SOURCE CODE.  
 
-Distribute verbatim copies of the Work, in source or compiled form.
+2.2 IF YOU DISTRIBUTE A DERIVATIVE WORK OR FORK, YOU MUST MAKE THE COMPLETE, CORRESPONDING SOURCE CODE AVAILABLE TO THE PUBLIC  
+UNDER THE SAME VERSION OF THIS LICENSE, FREE OF CHARGE.  
 
-Modify the Work, create Derivative Works, and distribute them under the conditions of Section 2.
+2.3 THE SOURCE CODE MUST BE MADE AVAILABLE EITHER BY INCLUDING IT WITH THE DISTRIBUTION OR PROVIDING A PUBLIC LINK  
+WHERE IT CAN BE ACCESSED WITHOUT RESTRICTION.  
 
-Charge a fee for distribution, support, or installation services.
+2.4 YOU MUST INCLUDE A NOTICE IDENTIFYING THAT YOUR WORK IS A MODIFIED VERSION OF THE ORIGINAL,  
+INCLUDING THE DATE AND AUTHOR OF MODIFICATION, IN A FILE NAMED “MODIFICATIONS.TXT” OR AN EQUIVALENT CHANGELOG FILE.  
 
-2. Source Code Availability
+----------------------------------------------------------------------
+3. ATTRIBUTION AND TRADEMARKS
+----------------------------------------------------------------------
 
-Original Works may be distributed with or without source code, at the author’s discretion.
+3.1 ATTRIBUTION TO THE ORIGINAL AUTHOR IS NOT REQUIRED.  
 
-Derivative Works must be made open source. The full, corresponding source code must be publicly available under the same ZPL license.
+3.2 HOWEVER, YOU MAY NOT USE THE NAMES “ZEKE PUBLIC LICENSE,” “ZPL,” OR ANY RELATED LOGOS OR TRADEMARKS  
+TO IMPLY ENDORSEMENT OR OFFICIAL STATUS WITHOUT WRITTEN PERMISSION FROM THE ORIGINAL AUTHOR.  
 
-If you distribute a Derivative Work, you must include:
+----------------------------------------------------------------------
+4. DISTRIBUTION CONDITIONS
+----------------------------------------------------------------------
 
-A notice identifying that it is modified from the original.
+4.1 ALL COPIES OR SUBSTANTIAL PORTIONS OF THE WORK MUST RETAIN THIS LICENSE TEXT IN FULL.  
 
-The date and author of modification.
+4.2 YOU MAY CHARGE A FEE FOR DISTRIBUTION, SUPPORT, OR INSTALLATION SERVICES,  
+BUT YOU MAY NOT IMPOSE FURTHER RESTRICTIONS THAT CONFLICT WITH THE TERMS OF THIS LICENSE.  
 
-Instructions or a link for obtaining the source code.
+4.3 IF YOU DISTRIBUTE A COMPILED OR EXECUTABLE VERSION, YOU MUST INFORM USERS THAT THE SOURCE CODE IS AVAILABLE  
+AND PROVIDE A MEANS TO OBTAIN IT AS SPECIFIED IN SECTION 2.  
 
-3. No Warranty
+----------------------------------------------------------------------
+5. TERMINATION AND REINSTATEMENT
+----------------------------------------------------------------------
 
-This software is provided “AS IS” and without any warranty, express or implied.
-NO WARRANTY APPLICABLE TO LAW.
-The entire risk of using the software lies with you. In no event shall the authors or copyright holders be liable for any damages resulting from use, misuse, or inability to use this software.
+5.1 ANY VIOLATION OF THIS LICENSE AUTOMATICALLY TERMINATES YOUR RIGHTS UNDER IT.  
 
-4. Distribution Conditions
+5.2 RIGHTS MAY BE REINSTATED IF THE VIOLATION IS CORRECTED WITHIN THIRTY (30) DAYS OF NOTICE OR DISCOVERY.  
 
-You must keep all copyright and license notices intact.
+5.3 UPON TERMINATION, YOU MUST CEASE ALL USE AND DISTRIBUTION OF THE WORK UNTIL COMPLIANCE IS RESTORED.  
 
-You may not sublicense, relicense, or impose additional restrictions that contradict the ZPL.
+----------------------------------------------------------------------
+6. ETHICAL USE
+----------------------------------------------------------------------
 
-You may distribute compiled versions of the Work provided you make the corresponding source available upon request or provide a link to where it can be freely accessed.
+6.1 THE WORK MAY NOT BE USED FOR PURPOSES THAT VIOLATE HUMAN RIGHTS, ENABLE SURVEILLANCE, OR CAUSE HARM.  
 
-5. Termination
+6.2 VIOLATION OF THIS SECTION CONSTITUTES IMMEDIATE TERMINATION OF RIGHTS UNDER THIS LICENSE.  
 
-If you violate the terms of this License, your rights under it automatically terminate. Your rights will be reinstated if you correct the violation within 30 days of receiving notice.
+----------------------------------------------------------------------
+7. WARRANTY DISCLAIMER
+----------------------------------------------------------------------
 
-6. Versioning
+7.1 THIS SOFTWARE IS PROVIDED “AS IS,” WITHOUT ANY WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.  
+THIS INCLUDES BUT IS NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.  
 
-New versions of the Zeke Public License may be published at https://zpl-license.github.io
+7.2 UNDER NO CIRCUMSTANCES SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY DAMAGES, LOSSES, OR LIABILITIES  
+ARISING FROM THE USE OR INABILITY TO USE THIS SOFTWARE.  
+
+7.3 THIS PRODUCT OR SOFTWARE HAS **NO WARRANTY APPLICABLE TO LAW.**  
+
+----------------------------------------------------------------------
+8. GOVERNING LAW
+----------------------------------------------------------------------
+
+8.1 THIS LICENSE SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF MICHIGAN,  
+UNITED STATES OF AMERICA, WITHOUT REGARD TO ITS CONFLICT OF LAW PRINCIPLES.  
+
+----------------------------------------------------------------------
+9. LICENSE VERSIONING
+----------------------------------------------------------------------
+
+9.1 FUTURE VERSIONS OF THE ZEKE PUBLIC LICENSE MAY BE PUBLISHED AT HTTPS://ZPL-LICENSE.GITHUB.IO.  
+
+9.2 EACH NEW VERSION WILL PRESERVE THE CORE PRINCIPLES OF FREEDOM, OPENNESS, AND ETHICAL USE.  
+
+9.3 YOU MAY APPLY EITHER THE VERSION YOU RECEIVED OR ANY LATER VERSION PUBLISHED BY THE ORIGINAL AUTHOR.  
+
+----------------------------------------------------------------------
+10. FINAL CLAUSE
+----------------------------------------------------------------------
+
+THIS LICENSE EXISTS TO PRESERVE SOFTWARE FREEDOM, ENSURE OPEN ACCESS, AND EMPOWER DEVELOPERS.  
+BY USING, MODIFYING, OR DISTRIBUTING SOFTWARE UNDER THE ZPL,  
+YOU AGREE TO MAINTAIN THESE FREEDOMS FOR YOURSELF AND FOR ALL OTHERS WHO RECEIVE THE WORK.  
+
+======================================================================
+END OF TERMS AND CONDITIONS
+======================================================================
+
+zpl-license.github.io
+Made for devs, by devs
