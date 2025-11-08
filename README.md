@@ -21,5 +21,12 @@ To show that your code is licensed under the ZPL, include the following line at 
 // LICENSED BY THE ZPL LICENSE — https://zpl-license.github.io
 
 ```
+If your software uses a terminal please print this when your program is loaded from the terminal on the first time.
+```txt
+  Copyright (c) 2025 [AUTHOR]
+       Licensed by the ZPL License. This product or software has NO WARRANTY APPLICABLE TO LAW.
+ See license.txt in the origin directory of this software for more info.
+```
 For web applications using the License please put a changelog or allow users to view modifications.txt 
+
 Thank you for using the ZPL License!
