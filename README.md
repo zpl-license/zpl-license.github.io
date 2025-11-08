@@ -16,7 +16,7 @@ ZPL ensures you can choose how open or closed your project is while still respec
 
 ##  Usage
 To show that your code is licensed under the ZPL, include the following line at the top of your source files:
-
+**All forks of a program must stay open source, but the original can be open or closed source. ** 
 ```js
 // LICENSED BY THE ZPL LICENSE — https://zpl-license.github.io
 
