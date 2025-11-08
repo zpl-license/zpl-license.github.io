@@ -1,3 +1,4 @@
+#Modifications.txt - See license.txt
 2025-11-7 - ZekeV - Changed License and overhauled the website
 2025-11-08 - ZekeV - Made a even and better license
 2025-11-08 - ZekeV - Fixed stray "Copy Text" at bottom of website
