@@ -1,4 +1,4 @@
-#  Zeke Public License (ZPL)
+#  Zeke Public License (ZEPL)
 
 **Welcome to the official ZPL repository!**
 
